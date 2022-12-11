@@ -1,5 +1,5 @@
 function getQuoteOfTheDay() {
-    quoteOfTheDay = quotes[0];
+    quoteOfTheDay = quotes[getDayOfYear() - 1];
 
     quouteBody = document.getElementById('quote-body');
     quouteAuthor = document.getElementById('quote-author');
