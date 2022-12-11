@@ -1,0 +1,21 @@
+.container {
+    width: 50%;
+    height: 70vh;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#quote-body {
+	font-size: 3em;
+}
+
+#quote-author {
+	font-size: 1.5em;
+}
+
+#quote-body::before, #quote-body::after {
+	content: "\"";
+}
