@@ -18,9 +18,4 @@ function getDayOfYear() {
     return day;
 }
 
-function showMostVisitedSites(mostVisitedURLs) {
-    alert(1);
-}
-
 getQuoteOfTheDay();
-chrome.topSites.get(showMostVisitedSites)
