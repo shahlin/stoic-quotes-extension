@@ -1,3 +1,10 @@
+body {
+    background: #2e3f46;
+    color: #efefef;
+    font-family: Times new Roman;
+    font-size: 1em;
+}
+
 .container {
     width: 50%;
     height: 70vh;
