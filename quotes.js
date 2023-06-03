@@ -600,7 +600,7 @@ var quotes = [
         "author": "Marcus Aurelius"
     },
     {
-        "body": "No man finds it difficult to return to nature, except the man who has deserted nature.  We.",
+        "body": "No man finds it difficult to return to nature, except the man who has deserted nature.",
         "author": "Seneca"
     },
     {
@@ -612,7 +612,7 @@ var quotes = [
         "author": "Seneca"
     },
     {
-        "body": "Is any man so foolish as to fear change, to which all things that once were not owe their being? And.",
+        "body": "Is any man so foolish as to fear change, to which all things that once were not owe their being?",
         "author": "Marcus Aurelius"
     },
     {
@@ -640,7 +640,7 @@ var quotes = [
         "author": "Seneca"
     },
     {
-        "body": "Sometimes even to live is an act of courage.”   Anger.",
+        "body": "Sometimes even to live is an act of courage.",
         "author": "Seneca"
     },
     {
@@ -648,7 +648,7 @@ var quotes = [
         "author": "Seneca"
     },
     {
-        "body": "How many of them who came into the world at the same time when I did, are already gone out of it? LII.",
+        "body": "How many of them who came into the world at the same time when I did, are already gone out of it?",
         "author": "Marcus Aurelius"
     },
     {
@@ -4276,7 +4276,7 @@ var quotes = [
         "author": "Marcus Aurelius"
     },
     {
-        "body": "Be deaf to those who love you most of all; they pray for bad things with good intentions. .",
+        "body": "Be deaf to those who love you most of all; they pray for bad things with good intentions.",
         "author": "Seneca"
     },
     {
