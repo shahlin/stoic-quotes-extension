@@ -1,7 +1,7 @@
 {
     "name": "Stoic Quotes",
     "description": "New and unique quotes daily on new tabs",
-    "version": "0.0.0.2",
+    "version": "0.0.0.4",
     "manifest_version": 3,
     "author": "Shahlin Ibrahim",
     "icons": {
@@ -10,7 +10,7 @@
         "48": "images/logo-48.png",
         "128": "images/logo-128.png"
     },
-    "chrome_url_overrides" : {
+    "chrome_url_overrides": {
         "newtab": "index.html"
     }
 }
