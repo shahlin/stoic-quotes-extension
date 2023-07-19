@@ -856,10 +856,6 @@ var quotes = [
         "author": "Epictetus"
     },
     {
-        "body": "From my grandfather Verus I learned good morals and the government of my temper.",
-        "author": "Marcus Aurelius"
-    },
-    {
         "body": "Never say of anything that I've lost it, only that Ive given it back.",
         "author": "Epictetus"
     },
@@ -868,19 +864,7 @@ var quotes = [
         "author": "Seneca"
     },
     {
-        "body": "Give up your thirst for books, so that you do not die a grouch.",
-        "author": "Marcus Aurelius"
-    },
-    {
-        "body": "Stoics held that material objects alone existed; but immanent in the material universe was a spiritual force which acted through them, manifesting itself under many forms, as fire, aether, spirit, soul, reason, the ruling principle.",
-        "author": "Marcus Aurelius"
-    },
-    {
         "body": "But death certainly, and life, honour and dishonour, pain and pleasure, all these things equally happen to good men and bad, being things which make us neither better nor worse. Therefore they are neither good nor evil.",
-        "author": "Marcus Aurelius"
-    },
-    {
-        "body": "From my great-grandfather: not to have attended schools for the public; to have had good teachers at home, and to realize that this is the sort of thing on which one should spend lavishly.",
         "author": "Marcus Aurelius"
     },
     {
@@ -888,27 +872,11 @@ var quotes = [
         "author": "Marcus Aurelius"
     },
     {
-        "body": "Why do you voluntarily deceive yourself and require to be told now for the first time what fate it is that you have long been labouring under? Take my word for it: since the day you were born you are being led thither.",
-        "author": "Seneca"
-    },
-    {
         "body": "The things that are indispensable require no elaborate pains for their acquisition; it is only the luxuries that call for labour. Follow nature, and you will need no skilled craftsmen.",
         "author": "Seneca"
     },
     {
-        "body": "Do you ask me what you should regard as especially to be avoided? I say, crowds; for as yet you cannot trust yourself to them with safety.",
-        "author": "Seneca"
-    },
-    {
         "body": "What we cannot bear removes us from life; what remains can be borne.",
-        "author": "Marcus Aurelius"
-    },
-    {
-        "body": "How ridiculous and unrealistic is the man who is astonished at anything that happens in life.",
-        "author": "Marcus Aurelius"
-    },
-    {
-        "body": "The ambitious supposeth another man's act, praise and applause, to be his own happiness; the voluptuous his own sense and feeling; but he that is wise, his own action.",
         "author": "Marcus Aurelius"
     },
     {
@@ -926,14 +894,6 @@ var quotes = [
     {
         "body": "Fortify yourself with contentment for this is an impregnable fortress.",
         "author": "Epictetus"
-    },
-    {
-        "body": "Living is the least important activity of the preoccupied man.",
-        "author": "Seneca"
-    },
-    {
-        "body": "Not to be offended with other men's liberty of speech, and to apply myself unto philosophy.",
-        "author": "Marcus Aurelius"
     },
     {
         "body": "Since it is possible that you might depart from life this very moment, regulate every act and thought accordingly.",
@@ -1000,36 +960,16 @@ var quotes = [
         "author": "Seneca"
     },
     {
-        "body": "Whatever happens to every man, this is for the interest of the universal.",
-        "author": "Marcus Aurelius"
-    },
-    {
         "body": "What am I doing with my soul? Interrogate yourself, to find out what inhabits your so-called mind and what kind of soul you have now. A child’s soul, an adolescent’s, a woman’s? A tyrant’s soul? The soul of a predator—or its prey?",
         "author": "Marcus Aurelius"
-    },
-    {
-        "body": "To expect punishment is to suffer it; and to earn it is to expect it.",
-        "author": "Seneca"
     },
     {
         "body": "Men are disturbed not by things, but by the view which they take of them.",
         "author": "Epictetus"
     },
     {
-        "body": "Where a man can live, there he can also live well. But he must live in a palace;- well then, he can also live well in a palace.",
-        "author": "Marcus Aurelius"
-    },
-    {
-        "body": "And so accept everything that happens, even if it is disagreeable, because it leads to this, to the health of the universe and to the prosperity and felicity of Zeus.",
-        "author": "Marcus Aurelius"
-    },
-    {
         "body": "In short, we do not abandon any discipline for despair of ever being the best in it.",
         "author": "Epictetus"
-    },
-    {
-        "body": "We ought not, therefore, to give over our hearts for good to any one part of the world. We should live with the conviction: 'I wasn‟t born for one particular corner: the whole world‟s my home country.",
-        "author": "Seneca"
     },
     {
         "body": "For your part, do not desire to be a general, or a senator, or a consul, but to be free; and the only way to this is a disregard of things which lie not within our own power.",
@@ -1044,15 +984,7 @@ var quotes = [
         "author": "Marcus Aurelius"
     },
     {
-        "body": "It loved to happen.",
-        "author": "Marcus Aurelius"
-    },
-    {
         "body": "Of this one thing make sure against your dying day - that your faults die before you do.",
-        "author": "Seneca"
-    },
-    {
-        "body": "Errare humanum est, sed perseverare diabolicum: 'to err is human, but to persist (in the mistake) is diabolical.",
         "author": "Seneca"
     },
     {
@@ -1088,7 +1020,7 @@ var quotes = [
         "author": "Marcus Aurelius"
     },
     {
-        "body": "BEGIN the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial.",
+        "body": "Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial.",
         "author": "Marcus Aurelius"
     },
     {
