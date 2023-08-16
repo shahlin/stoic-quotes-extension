@@ -16,8 +16,8 @@ body {
 }
 
 #quote-body {
-	font-size: 3em;
-	text-align: center;
+    font-size: 3em;
+    text-align: center;
 }
 
 #quote-author {
@@ -28,6 +28,13 @@ body {
     padding-top: 10px;
 }
 
-#quote-body::before, #quote-body::after {
-	content: "\"";
+#quote-body::before,
+#quote-body::after {
+    content: "\"";
+}
+
+@media (max-width: 725px) {
+    .container {
+        width: 80%;
+    }
 }
